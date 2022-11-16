@@ -1,0 +1,33 @@
+{
+    "premium":
+    {"januari": 9.780,"februari": 9.772,"maret": 9.606 , "april": 9.606 ,"mei": 9.627 ,"juni": 9.537,"juli": 9.401,"agustus": 9.499,"september": 9.455,"oktober": 9.449,"november": 9.539,"desember": 9.672},
+    "medium":
+    {"januari": 9.404,
+    "februari": 9.386,
+    "maret": 9.153 , 
+    "april": 8.978 ,
+    "mei": 8.909 ,
+    "juni": 8.906,
+    "juli": 8.886,
+    "agustus": 8.915,
+    "september": 8.962,
+    "oktober": 9.010,
+    "november": 9.071,
+    "desember": 9.128}
+    ,
+    "Luar Kualitas":
+    {"januari": 9.036,
+    "februari": 9.145,
+    "maret": 8.741 , 
+    "april": 8.675 ,
+    "mei": 8.710 ,
+    "juni": 8.694,
+    "juli": 8.481,
+    "agustus": 8.688,
+    "september": 8.588,
+    "oktober": 8.630,
+    "november": 8.711,
+    "desember": 8.888}
+    
+
+}
