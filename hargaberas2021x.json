@@ -1,0 +1,74 @@
+[
+  {
+    "Bulan": "Januari",
+    "Harga Beras Premuim": 9.78,
+    "Harga Beras Medium": 9.404,
+    "Harga Beras Luar Kualitas": 9.036
+  },
+  {
+    "Bulan": "Februari",
+    "Harga Beras Premuim": 9.772,
+    "Harga Beras Medium": 9.386,
+    "Harga Beras Luar Kualitas": 9.145
+  },
+  {
+    "Bulan": "Maret",
+    "Harga Beras Premuim": 9.606,
+    "Harga Beras Medium": 9.153,
+    "Harga Beras Luar Kualitas": 8.741
+  },
+  {
+    "Bulan": "April",
+    "Harga Beras Premuim": 9.606,
+    "Harga Beras Medium": 8.978,
+    "Harga Beras Luar Kualitas": 8.675
+  },
+  {
+    "Bulan": "Mei",
+    "Harga Beras Premuim": 9.627,
+    "Harga Beras Medium": 8.909,
+    "Harga Beras Luar Kualitas": 8.71
+  },
+  {
+    "Bulan": "Juni",
+    "Harga Beras Premuim": 9.537,
+    "Harga Beras Medium": 8.906,
+    "Harga Beras Luar Kualitas": 8.694
+  },
+  {
+    "Bulan": "Juli",
+    "Harga Beras Premuim": 9.401,
+    "Harga Beras Medium": 8.886,
+    "Harga Beras Luar Kualitas": 8.481
+  },
+  {
+    "Bulan": "Agustus",
+    "Harga Beras Premuim": 9.499,
+    "Harga Beras Medium": 8.915,
+    "Harga Beras Luar Kualitas": 8.688
+  },
+  {
+    "Bulan": "September",
+    "Harga Beras Premuim": 9.499,
+    "Harga Beras Medium": 8.962,
+    "Harga Beras Luar Kualitas": 8.588
+  },
+  {
+    "Bulan": "Oktober",
+    "Harga Beras Premuim": 9.449,
+    "Harga Beras Medium": 9.01,
+    "Harga Beras Luar Kualitas": 8.63
+  },
+  {
+    "Bulan": "November",
+    "Harga Beras Premuim": 9.539,
+    "Harga Beras Medium": 9.071,
+    "Harga Beras Luar Kualitas": 8.711
+  },
+  {
+    "Bulan": "Desember",
+    "Harga Beras Premuim": 9.672,
+    "Harga Beras Medium": 9.128,
+    "Harga Beras Luar Kualitas": 8.888
+  }
+]
